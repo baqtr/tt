@@ -4,4 +4,4 @@ cryptography==41.0.7
 pycryptodome==3.19.0
 cloudscraper==1.2.71
 fake-useragent==1.4.0
-threading6==0.2.0
+flask==2.3.3
